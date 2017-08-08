@@ -1,24 +1,18 @@
-# README
+# Flight Booker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application for Chapter 2 of
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
 
-Things you may want to cover:
+Link to website: https://hidden-sea-60961.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+* Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **Dion, Chan Hin Won** -  [hwchan91](https://github.com/hwchan91)
